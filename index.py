@@ -1,3 +1,3 @@
 slogan = "Somos Peru!"
 
-print(slogan)
+print(slogan + str("Hurra!"))
