@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Sof\u00e1",
+        "stock": 7,
+        "price": 299.99
+    },
+    {
+        "id": 2,
+        "name": "Mesa para cuatro personas",
+        "stock": 1,
+        "price": 699.99
+    },
+    {
+        "id": 3,
+        "name": "Silla con posa brazos",
+        "stock": 19,
+        "price": 49.89
+    },
+    {
+        "id": 4,
+        "name": "Cama, plaza doble",
+        "stock": 4,
+        "price": 849.99
+    },
+    {
+        "id": 5,
+        "name": "Vasos",
+        "stock": 12,
+        "price": 4.99
+    }
+]
